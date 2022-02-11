@@ -4,7 +4,8 @@
 
 export const environment = {
   production: false,
-  serviceUrl: "http://localhost:4000"
+  serviceUrl: "https://express0110.herokuapp.com/product"
+  // serviceUrl: "http://localhost:4000"
 };
 
 /*
